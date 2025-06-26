@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/jhanishant658/Dsa_problems/tree/master/1764-maximum-repeating-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Simulation
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0119-pascals-triangle-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jhanishant658/Dsa_problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/jhanishant658/Dsa_problems/tree/master/0338-counting-bits) |
 | [1764-maximum-repeating-substring](https://github.com/jhanishant658/Dsa_problems/tree/master/1764-maximum-repeating-substring) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/jhanishant658/Dsa_problems/tree/master/0670-maximum-swap) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
