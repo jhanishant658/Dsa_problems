@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jhanishant658/Dsa_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0119-pascals-triangle-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jhanishant658/Dsa_problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0119-pascals-triangle-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
