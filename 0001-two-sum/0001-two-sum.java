@@ -1,15 +1,20 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-      
- for(int i = 0; i < nums.length-1; i++) {
-    for(int j = i+1; j < nums.length;j++){
-if(nums[j]+ nums[i]==target){
-   
-   return new int [] {i, j};
-      
-}
-    }
- }
-        return new int[]{nums[0],nums[1]};  // This will return the first two elements of the array as per the problem statement. If you want the indices, you'll need to modify the return statement accordingly.
+       int[][] copy = new int[nums.length][2];  // Each element: [index, value]
+
+        for (int i = 0; i < nums.length; i++) {
+            copy[i][0] = i;        // store index
+            copy[i][1] = nums[i];  // store value
+        }
+
+        // Step 1: Sort by value (ascending)
+        Arrays.sort(copy, (a, b) -> Integer.compare(a[1], b[1]));
+        int i = 0 ,j= nums.length-1 ; 
+        while(i<j){
+            if(copy[i][1]+copy[j][1]==target) return new int[]{copy[i][0] , copy[j][0]};
+            else if(copy[i][1]+copy[j][1]<target)i++;
+            else j-- ;
+        }
+        return new int[]{-1,-1};
     }
 }
