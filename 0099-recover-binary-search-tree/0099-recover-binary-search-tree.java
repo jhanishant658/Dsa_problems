@@ -1,15 +1,21 @@
 class Solution {
     private TreeNode first;   // 1st node jiska value ulta mila
-    private TreeNode second;  // 2nd node
+    private TreeNode middle;  // middle
     private TreeNode prev;    // previous node in in‑order
+    private TreeNode last ;
 
     public void recoverTree(TreeNode root) {
         inorder(root);
 
-        // do value swap
-        int tmp = first.val;
-        first.val = second.val;
-        second.val = tmp;
+       if (first != null && last != null) {
+    int temp = first.val;
+    first.val = last.val;
+    last.val = temp;
+} else if (first != null && middle != null) {
+    int temp = first.val;
+    first.val = middle.val;
+    middle.val = temp;
+}
     }
 
     // Standard DFS in‑order
@@ -21,9 +27,10 @@ class Solution {
         // Violation: prev ka value current se bada hona nahi chahiye
         if (prev != null && prev.val > node.val) {
             // pahli violation ⇒ first = prev
-            if (first == null) first = prev;
-            // har violation par second = current
-            second = node;
+            if (first == null) {first = prev;
+            middle = node ;}
+            //aakhiri violation 
+          else{last = node;}
         }
         prev = node;
 
