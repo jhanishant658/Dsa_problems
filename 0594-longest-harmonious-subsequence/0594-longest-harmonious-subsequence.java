@@ -1,20 +1,14 @@
 class Solution {
     public int findLHS(int[] nums) {
         Arrays.sort(nums);
-        int i = 0, maxlen = 0;
-
-        for (int j = 0; j < nums.length; j++) {
-            // Shrink window until difference is <= 1
-            while (nums[j] - nums[i] > 1) {
-                i++;
-            }
-
-            // If difference is exactly 1, it's a valid window
-            if (nums[j] - nums[i] == 1) {
-                maxlen = Math.max(maxlen, j - i + 1);
-            }
-        }
-
+        int  maxlen = 0;
+      HashMap<Integer,Integer>map = new HashMap();
+       for(int i = 0 ;i<nums.length ;i++){
+        map.put(nums[i] , map.getOrDefault(nums[i] , 0)+1);
+       }
+      for(int j = 0 ;j<nums.length-1 ;j++){
+        if(nums[j+1]-nums[j]==1)maxlen=Math.max(maxlen , map.get(nums[j+1])+map.get(nums[j]));
+      }
         return maxlen;
     }
 }
