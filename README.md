@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/jhanishant658/Dsa_problems/tree/master/0670-maximum-swap) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/jhanishant658/Dsa_problems/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jhanishant658/Dsa_problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/jhanishant658/Dsa_problems/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0060-permutation-sequence) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sliding Window
 |  |
 | ------- |
