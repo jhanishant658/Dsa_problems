@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3429-special-array-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3429-special-array-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jhanishant658/Dsa_problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jhanishant658/Dsa_problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Memoization
 |  |
