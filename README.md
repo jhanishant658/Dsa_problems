@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/jhanishant658/Dsa_problems/tree/master/0338-counting-bits) |
 | [1764-maximum-repeating-substring](https://github.com/jhanishant658/Dsa_problems/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/jhanishant658/Dsa_problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/jhanishant658/Dsa_problems/tree/master/0139-word-break) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/jhanishant658/Dsa_problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Bit Manipulation
 |  |
