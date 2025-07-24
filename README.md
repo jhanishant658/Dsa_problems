@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jhanishant658/Dsa_problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jhanishant658/Dsa_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/jhanishant658/Dsa_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jhanishant658/Dsa_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/jhanishant658/Dsa_problems/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jhanishant658/Dsa_problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/jhanishant658/Dsa_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String Matching
@@ -225,12 +227,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jhanishant658/Dsa_problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/jhanishant658/Dsa_problems/tree/master/0099-recover-binary-search-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/jhanishant658/Dsa_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jhanishant658/Dsa_problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/jhanishant658/Dsa_problems/tree/master/0099-recover-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jhanishant658/Dsa_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/jhanishant658/Dsa_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
