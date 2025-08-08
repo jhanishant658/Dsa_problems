@@ -1,12 +1,10 @@
 # Write your MySQL query statement below
-select Max(p.num) as num from MyNumbers p 
-join(
-    SELECT m.num
+
+    SELECT Max(m.num) as num 
 FROM MyNumbers m
 JOIN (
     SELECT num ,count(num) as cnt
     FROM MyNumbers
     GROUP BY num
     
-) AS n ON m.num = n.num and n.cnt = 1 ) as t 
-  on p.num = t.num ; 
+) AS n ON m.num = n.num and n.cnt = 1 
