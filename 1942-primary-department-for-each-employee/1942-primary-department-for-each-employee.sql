@@ -2,7 +2,7 @@
  select e.employee_id , e.department_id 
   from Employee e 
   join (
-    select employee_id ,department_id ,primary_flag ,count(employee_id)as cnt
+    select employee_id  ,count(employee_id)as cnt
     from Employee 
     group by employee_id
   ) as t 
