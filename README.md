@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/jhanishant658/Dsa_problems/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/jhanishant658/Dsa_problems/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jhanishant658/Dsa_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jhanishant658/Dsa_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/jhanishant658/Dsa_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/jhanishant658/Dsa_problems/tree/master/0338-counting-bits) |
 | [0826-soup-servings](https://github.com/jhanishant658/Dsa_problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/jhanishant658/Dsa_problems/tree/master/0867-new-21-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1764-maximum-repeating-substring](https://github.com/jhanishant658/Dsa_problems/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/jhanishant658/Dsa_problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jhanishant658/Dsa_problems/tree/master/0073-set-matrix-zeroes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jhanishant658/Dsa_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
