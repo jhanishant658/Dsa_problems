@@ -10,9 +10,8 @@ class Solution {
                 if(matrix[i][j]!=0&&(i==0||j==0)){
                     res+=1;
                 }
-                System .out .print(matrix[i][j]);
             }
-           //i=1 ,j=1
+          
         }
         return res ;
     }
