@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jhanishant658/Dsa_problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jhanishant658/Dsa_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/jhanishant658/Dsa_problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/jhanishant658/Dsa_problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jhanishant658/Dsa_problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/jhanishant658/Dsa_problems/tree/master/0073-set-matrix-zeroes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jhanishant658/Dsa_problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/jhanishant658/Dsa_problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/jhanishant658/Dsa_problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/jhanishant658/Dsa_problems/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/jhanishant658/Dsa_problems/tree/master/0139-word-break) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/jhanishant658/Dsa_problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/jhanishant658/Dsa_problems/tree/master/0073-set-matrix-zeroes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
