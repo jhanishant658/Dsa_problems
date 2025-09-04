@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/jhanishant658/Dsa_problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3830-find-closest-person](https://github.com/jhanishant658/Dsa_problems/tree/master/3830-find-closest-person) |
 ## Enumeration
 |  |
 | ------- |
