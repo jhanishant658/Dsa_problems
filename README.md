@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/jhanishant658/Dsa_problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/jhanishant658/Dsa_problems/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jhanishant658/Dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/jhanishant658/Dsa_problems/tree/master/0135-candy) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jhanishant658/Dsa_problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/jhanishant658/Dsa_problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/jhanishant658/Dsa_problems/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/jhanishant658/Dsa_problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0119-pascals-triangle-ii) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jhanishant658/Dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0085-maximal-rectangle) |
 | [0874-backspace-string-compare](https://github.com/jhanishant658/Dsa_problems/tree/master/0874-backspace-string-compare) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jhanishant658/Dsa_problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jhanishant658/Dsa_problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jhanishant658/Dsa_problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/jhanishant658/Dsa_problems/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0085-maximal-rectangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jhanishant658/Dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
