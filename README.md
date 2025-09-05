@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jhanishant658/Dsa_problems/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/jhanishant658/Dsa_problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/jhanishant658/Dsa_problems/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jhanishant658/Dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/jhanishant658/Dsa_problems/tree/master/0135-candy) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jhanishant658/Dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0874-backspace-string-compare](https://github.com/jhanishant658/Dsa_problems/tree/master/0874-backspace-string-compare) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jhanishant658/Dsa_problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jhanishant658/Dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
