@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jhanishant658/Dsa_problems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/jhanishant658/Dsa_problems/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/jhanishant658/Dsa_problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jhanishant658/Dsa_problems/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/jhanishant658/Dsa_problems/tree/master/0139-word-break) |
 | [0874-backspace-string-compare](https://github.com/jhanishant658/Dsa_problems/tree/master/0874-backspace-string-compare) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jhanishant658/Dsa_problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/jhanishant658/Dsa_problems/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/jhanishant658/Dsa_problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jhanishant658/Dsa_problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0119-pascals-triangle-ii) |
