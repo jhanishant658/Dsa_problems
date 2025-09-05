@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/jhanishant658/Dsa_problems/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/jhanishant658/Dsa_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jhanishant658/Dsa_problems/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/jhanishant658/Dsa_problems/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/jhanishant658/Dsa_problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/jhanishant658/Dsa_problems/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jhanishant658/Dsa_problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/jhanishant658/Dsa_problems/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/jhanishant658/Dsa_problems/tree/master/0089-gray-code) |
 | [0679-24-game](https://github.com/jhanishant658/Dsa_problems/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jhanishant658/Dsa_problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jhanishant658/Dsa_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
