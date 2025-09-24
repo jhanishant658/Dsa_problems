@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/jhanishant658/Dsa_problems/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/jhanishant658/Dsa_problems/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jhanishant658/Dsa_problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0874-backspace-string-compare](https://github.com/jhanishant658/Dsa_problems/tree/master/0874-backspace-string-compare) |
 | [1006-vowel-spellchecker](https://github.com/jhanishant658/Dsa_problems/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jhanishant658/Dsa_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/jhanishant658/Dsa_problems/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/jhanishant658/Dsa_problems/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jhanishant658/Dsa_problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/jhanishant658/Dsa_problems/tree/master/0900-reordered-power-of-2) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/jhanishant658/Dsa_problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/jhanishant658/Dsa_problems/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jhanishant658/Dsa_problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/jhanishant658/Dsa_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jhanishant658/Dsa_problems/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
