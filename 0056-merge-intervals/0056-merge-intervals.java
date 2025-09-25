@@ -6,16 +6,17 @@ class Solution {
 
         List<int[]> ans = new ArrayList<>();
 
-        for (int i = 0; i < intervals.length; i++) {
-            if (ans.isEmpty() || ans.get(ans.size() - 1)[1] < intervals[i][0]) {
-                // No overlap, add interval
-                ans.add(intervals[i]);
-            } else {
-                // Overlap, merge interval
-                int[] last = ans.get(ans.size() - 1);
-                last[1] = Math.max(last[1], intervals[i][1]);
+         ans.add(intervals[0]);
+         for(int i=1 ; i<intervals.length ; i++){
+            if(ans.get(ans.size()-1)[1]>=intervals[i][0]){
+                int [] a = new int[]{ans.get(ans.size()-1)[0] , Math.max(intervals[i][1] ,ans.get(ans.size()-1)[1])};
+                ans.set(ans.size()-1 , a );
             }
-        }
+            else {
+                ans.add(intervals[i]);
+            }
+         }
+        
 
         return ans.toArray(new int[ans.size()][]);
     }
