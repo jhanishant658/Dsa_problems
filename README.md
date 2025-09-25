@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jhanishant658/Dsa_problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jhanishant658/Dsa_problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/jhanishant658/Dsa_problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/jhanishant658/Dsa_problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jhanishant658/Dsa_problems/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/jhanishant658/Dsa_problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/jhanishant658/Dsa_problems/tree/master/0073-set-matrix-zeroes) |
@@ -230,11 +231,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jhanishant658/Dsa_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/jhanishant658/Dsa_problems/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jhanishant658/Dsa_problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/jhanishant658/Dsa_problems/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/jhanishant658/Dsa_problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/jhanishant658/Dsa_problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/jhanishant658/Dsa_problems/tree/master/0087-scramble-string) |
