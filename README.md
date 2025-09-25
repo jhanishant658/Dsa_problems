@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/jhanishant658/Dsa_problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jhanishant658/Dsa_problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/jhanishant658/Dsa_problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jhanishant658/Dsa_problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jhanishant658/Dsa_problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jhanishant658/Dsa_problems/tree/master/0056-merge-intervals) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jhanishant658/Dsa_problems/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/jhanishant658/Dsa_problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/jhanishant658/Dsa_problems/tree/master/0096-unique-binary-search-trees) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/jhanishant658/Dsa_problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jhanishant658/Dsa_problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/jhanishant658/Dsa_problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/jhanishant658/Dsa_problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0085-maximal-rectangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
