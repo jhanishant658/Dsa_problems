@@ -5,21 +5,21 @@ class Solution {
       int idx = 0 ; 
       while(i<m&&j<n){
         if(nums1[i]<nums2[j]){
-           ans[idx++] = nums1[i] ; 
-           i++ ; 
+           ans[idx++] = nums1[i++] ; 
+          
         }
         else{
-            ans[idx++] = nums2[j] ; 
-            j++; 
+            ans[idx++] = nums2[j++] ; 
+           
         }
       }
       while(i<m){
-        ans[idx++] = nums1[i] ; 
-           i++ ;
+        ans[idx++] = nums1[i++] ; 
+           
       }
       while(j<n){
-         ans[idx++] = nums2[j] ; 
-            j++;
+         ans[idx++] = nums2[j++] ; 
+            
       }
       for(int l = 0 ; l<nums1.length ; l++){
         nums1[l] = ans[l] ; 
