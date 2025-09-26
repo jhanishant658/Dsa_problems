@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jhanishant658/Dsa_problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jhanishant658/Dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0120-triangle) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jhanishant658/Dsa_problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0611-valid-triangle-number) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jhanishant658/Dsa_problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jhanishant658/Dsa_problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jhanishant658/Dsa_problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/jhanishant658/Dsa_problems/tree/master/0900-reordered-power-of-2) |
