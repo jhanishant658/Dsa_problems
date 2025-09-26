@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhanishant658/Dsa_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/jhanishant658/Dsa_problems/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/jhanishant658/Dsa_problems/tree/master/0139-word-break) |
+| [0287-find-the-duplicate-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/jhanishant658/Dsa_problems/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/0165-compare-version-numbers) |
+| [0287-find-the-duplicate-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0611-valid-triangle-number) |
 | [0874-backspace-string-compare](https://github.com/jhanishant658/Dsa_problems/tree/master/0874-backspace-string-compare) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jhanishant658/Dsa_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jhanishant658/Dsa_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jhanishant658/Dsa_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/jhanishant658/Dsa_problems/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/jhanishant658/Dsa_problems/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/jhanishant658/Dsa_problems/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jhanishant658/Dsa_problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jhanishant658/Dsa_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
