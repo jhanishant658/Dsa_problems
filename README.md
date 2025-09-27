@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/jhanishant658/Dsa_problems/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/jhanishant658/Dsa_problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/jhanishant658/Dsa_problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/jhanishant658/Dsa_problems/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jhanishant658/Dsa_problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/jhanishant658/Dsa_problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/jhanishant658/Dsa_problems/tree/master/0900-reordered-power-of-2) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jhanishant658/Dsa_problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/jhanishant658/Dsa_problems/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jhanishant658/Dsa_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jhanishant658/Dsa_problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/jhanishant658/Dsa_problems/tree/master/0900-reordered-power-of-2) |
