@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jhanishant658/Dsa_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jhanishant658/Dsa_problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/jhanishant658/Dsa_problems/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/jhanishant658/Dsa_problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/jhanishant658/Dsa_problems/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jhanishant658/Dsa_problems/tree/master/0166-fraction-to-recurring-decimal) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jhanishant658/Dsa_problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/jhanishant658/Dsa_problems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/jhanishant658/Dsa_problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/jhanishant658/Dsa_problems/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/jhanishant658/Dsa_problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/jhanishant658/Dsa_problems/tree/master/0087-scramble-string) |
@@ -592,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jhanishant658/Dsa_problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
