@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/jhanishant658/Dsa_problems/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/jhanishant658/Dsa_problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/jhanishant658/Dsa_problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/jhanishant658/Dsa_problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/jhanishant658/Dsa_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jhanishant658/Dsa_problems/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
