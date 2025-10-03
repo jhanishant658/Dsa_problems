@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/jhanishant658/Dsa_problems/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/jhanishant658/Dsa_problems/tree/master/0679-24-game) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/jhanishant658/Dsa_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/jhanishant658/Dsa_problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/jhanishant658/Dsa_problems/tree/master/2023-design-movie-rental-system) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jhanishant658/Dsa_problems/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0407-trapping-rain-water-ii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jhanishant658/Dsa_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Trie
 |  |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/jhanishant658/Dsa_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jhanishant658/Dsa_problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/jhanishant658/Dsa_problems/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0407-trapping-rain-water-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
