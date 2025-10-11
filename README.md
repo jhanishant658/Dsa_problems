@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jhanishant658/Dsa_problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3429-special-array-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/jhanishant658/Dsa_problems/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jhanishant658/Dsa_problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jhanishant658/Dsa_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/jhanishant658/Dsa_problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/jhanishant658/Dsa_problems/tree/master/3827-implement-router) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jhanishant658/Dsa_problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jhanishant658/Dsa_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jhanishant658/Dsa_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jhanishant658/Dsa_problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/jhanishant658/Dsa_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/jhanishant658/Dsa_problems/tree/master/3827-implement-router) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/jhanishant658/Dsa_problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -401,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jhanishant658/Dsa_problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jhanishant658/Dsa_problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jhanishant658/Dsa_problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -429,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/jhanishant658/Dsa_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
