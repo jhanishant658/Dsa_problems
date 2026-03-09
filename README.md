@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jhanishant658/Dsa_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/jhanishant658/Dsa_problems/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jhanishant658/Dsa_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/jhanishant658/Dsa_problems/tree/master/2529-range-product-queries-of-powers) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jhanishant658/Dsa_problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jhanishant658/Dsa_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
