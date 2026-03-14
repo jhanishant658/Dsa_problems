@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jhanishant658/Dsa_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jhanishant658/Dsa_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jhanishant658/Dsa_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jhanishant658/Dsa_problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jhanishant658/Dsa_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1764-maximum-repeating-substring](https://github.com/jhanishant658/Dsa_problems/tree/master/1764-maximum-repeating-substring) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/jhanishant658/Dsa_problems/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0679-24-game](https://github.com/jhanishant658/Dsa_problems/tree/master/0679-24-game) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jhanishant658/Dsa_problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/jhanishant658/Dsa_problems/tree/master/1980-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jhanishant658/Dsa_problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jhanishant658/Dsa_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
