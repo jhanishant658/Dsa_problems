@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/jhanishant658/Dsa_problems/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jhanishant658/Dsa_problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/jhanishant658/Dsa_problems/tree/master/1448-maximum-69-number) |
+| [1622-fancy-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/jhanishant658/Dsa_problems/tree/master/1642-water-bottles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jhanishant658/Dsa_problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [1622-fancy-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jhanishant658/Dsa_problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/jhanishant658/Dsa_problems/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/jhanishant658/Dsa_problems/tree/master/2429-design-a-food-rating-system) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/1622-fancy-sequence) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jhanishant658/Dsa_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/3791-fruits-into-baskets-iii) |
