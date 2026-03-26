@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jhanishant658/Dsa_problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/jhanishant658/Dsa_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jhanishant658/Dsa_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/jhanishant658/Dsa_problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/jhanishant658/Dsa_problems/tree/master/3827-implement-router) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jhanishant658/Dsa_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/jhanishant658/Dsa_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jhanishant658/Dsa_problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jhanishant658/Dsa_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Database
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jhanishant658/Dsa_problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jhanishant658/Dsa_problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jhanishant658/Dsa_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
