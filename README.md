@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/jhanishant658/Dsa_problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/2479-meeting-rooms-iii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jhanishant658/Dsa_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3336-water-bottles-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jhanishant658/Dsa_problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/jhanishant658/Dsa_problems/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/jhanishant658/Dsa_problems/tree/master/2689-rearranging-fruits) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jhanishant658/Dsa_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jhanishant658/Dsa_problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jhanishant658/Dsa_problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jhanishant658/Dsa_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/jhanishant658/Dsa_problems/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jhanishant658/Dsa_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jhanishant658/Dsa_problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jhanishant658/Dsa_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jhanishant658/Dsa_problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/jhanishant658/Dsa_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
