@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/jhanishant658/Dsa_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/jhanishant658/Dsa_problems/tree/master/3396-valid-word) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jhanishant658/Dsa_problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/jhanishant658/Dsa_problems/tree/master/2689-rearranging-fruits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jhanishant658/Dsa_problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jhanishant658/Dsa_problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/jhanishant658/Dsa_problems/tree/master/1764-maximum-repeating-substring) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jhanishant658/Dsa_problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Backtracking
 |  |
 | ------- |
