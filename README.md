@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/jhanishant658/Dsa_problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/2479-meeting-rooms-iii) |
+| [2751-robot-collisions](https://github.com/jhanishant658/Dsa_problems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jhanishant658/Dsa_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3336-water-bottles-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/jhanishant658/Dsa_problems/tree/master/2529-range-product-queries-of-powers) |
 | [2573-find-the-string-with-lcp](https://github.com/jhanishant658/Dsa_problems/tree/master/2573-find-the-string-with-lcp) |
 | [2689-rearranging-fruits](https://github.com/jhanishant658/Dsa_problems/tree/master/2689-rearranging-fruits) |
+| [2751-robot-collisions](https://github.com/jhanishant658/Dsa_problems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jhanishant658/Dsa_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jhanishant658/Dsa_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/jhanishant658/Dsa_problems/tree/master/2689-rearranging-fruits) |
+| [2751-robot-collisions](https://github.com/jhanishant658/Dsa_problems/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/jhanishant658/Dsa_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jhanishant658/Dsa_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2751-robot-collisions](https://github.com/jhanishant658/Dsa_problems/tree/master/2751-robot-collisions) |
 ## Segment Tree
 |  |
 | ------- |
