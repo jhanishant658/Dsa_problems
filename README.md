@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3336-water-bottles-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jhanishant658/Dsa_problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jhanishant658/Dsa_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jhanishant658/Dsa_problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jhanishant658/Dsa_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/jhanishant658/Dsa_problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jhanishant658/Dsa_problems/tree/master/0169-majority-element) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
