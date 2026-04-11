@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jhanishant658/Dsa_problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/jhanishant658/Dsa_problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jhanishant658/Dsa_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jhanishant658/Dsa_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/jhanishant658/Dsa_problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/jhanishant658/Dsa_problems/tree/master/3827-implement-router) |
