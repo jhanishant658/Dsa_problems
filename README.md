@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3488-closest-equal-element-queries](https://github.com/jhanishant658/Dsa_problems/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jhanishant658/Dsa_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/jhanishant658/Dsa_problems/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/jhanishant658/Dsa_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jhanishant658/Dsa_problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jhanishant658/Dsa_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/jhanishant658/Dsa_problems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jhanishant658/Dsa_problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3790-fruits-into-baskets-ii) |
