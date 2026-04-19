@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/jhanishant658/Dsa_problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jhanishant658/Dsa_problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/jhanishant658/Dsa_problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jhanishant658/Dsa_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jhanishant658/Dsa_problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/jhanishant658/Dsa_problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/jhanishant658/Dsa_problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/jhanishant658/Dsa_problems/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jhanishant658/Dsa_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/jhanishant658/Dsa_problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jhanishant658/Dsa_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jhanishant658/Dsa_problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/jhanishant658/Dsa_problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jhanishant658/Dsa_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/jhanishant658/Dsa_problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jhanishant658/Dsa_problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jhanishant658/Dsa_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jhanishant658/Dsa_problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
