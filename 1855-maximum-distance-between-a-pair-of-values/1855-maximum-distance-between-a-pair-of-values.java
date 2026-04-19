@@ -1,20 +1,26 @@
 class Solution {
-    public int maxDistance(int[] nums1, int[] nums2) {
-        int i = 0, j = 0;
-        int maxDist = 0;
+  public int binarySearch(int i, int[] arr, int target) {
+    int start = i;
+    int end = arr.length - 1;
+    int bestJ = i; // Initialize with i because i <= j is a requirement
+    
+    while (start <= end) {
+        int mid = start + (end - start) / 2; // Prevents overflow
         
-        while (i < nums1.length && j < nums2.length) {
-            if (nums1[i] <= nums2[j]) {
-                // Valid pair, record distance and try to increase j
-                maxDist = Math.max(maxDist, j - i);
-                j++;
-            } else {
-                // nums1[i] is too large, move i forward
-                i++;
-                // Optimization: Ensure j is at least i to satisfy i <= j
-                if (j < i) j = i;
-            }
+        if (arr[mid] >= target) {
+            bestJ = mid;      // This index is valid! Save it as a candidate.
+            start = mid + 1;  // Try to find an even larger index further right.
+        } else {
+            end = mid - 1;    // Value is too small, look to the left.
         }
-        return maxDist;
+    }
+    return bestJ - i; 
+}
+    public int maxDistance(int[] nums1, int[] nums2) {
+        int ans = 0 ; 
+        for(int i = 0 ; i<nums1.length ; i++){
+          ans = Math.max(ans , binarySearch(i , nums2 , nums1[i])) ; 
+        }
+        return ans ; 
     }
 }
