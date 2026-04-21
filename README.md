@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/jhanishant658/Dsa_problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jhanishant658/Dsa_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jhanishant658/Dsa_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1813-maximum-erasure-value](https://github.com/jhanishant658/Dsa_problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/jhanishant658/Dsa_problems/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jhanishant658/Dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/jhanishant658/Dsa_problems/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jhanishant658/Dsa_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/jhanishant658/Dsa_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Search Tree
 |  |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/jhanishant658/Dsa_problems/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
