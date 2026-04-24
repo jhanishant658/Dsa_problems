@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/jhanishant658/Dsa_problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jhanishant658/Dsa_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1664-ways-to-make-a-fair-array](https://github.com/jhanishant658/Dsa_problems/tree/master/1664-ways-to-make-a-fair-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jhanishant658/Dsa_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1813-maximum-erasure-value](https://github.com/jhanishant658/Dsa_problems/tree/master/1813-maximum-erasure-value) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jhanishant658/Dsa_problems/tree/master/0238-product-of-array-except-self) |
 | [1590-make-sum-divisible-by-p](https://github.com/jhanishant658/Dsa_problems/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/jhanishant658/Dsa_problems/tree/master/1664-ways-to-make-a-fair-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jhanishant658/Dsa_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/jhanishant658/Dsa_problems/tree/master/2529-range-product-queries-of-powers) |
 | [2615-sum-of-distances](https://github.com/jhanishant658/Dsa_problems/tree/master/2615-sum-of-distances) |
