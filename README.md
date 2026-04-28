@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jhanishant658/Dsa_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jhanishant658/Dsa_problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/jhanishant658/Dsa_problems/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jhanishant658/Dsa_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jhanishant658/Dsa_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jhanishant658/Dsa_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/jhanishant658/Dsa_problems/tree/master/1448-maximum-69-number) |
 | [1622-fancy-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/jhanishant658/Dsa_problems/tree/master/1642-water-bottles) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jhanishant658/Dsa_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jhanishant658/Dsa_problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jhanishant658/Dsa_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jhanishant658/Dsa_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jhanishant658/Dsa_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jhanishant658/Dsa_problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jhanishant658/Dsa_problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/2479-meeting-rooms-iii) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jhanishant658/Dsa_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jhanishant658/Dsa_problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jhanishant658/Dsa_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/jhanishant658/Dsa_problems/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jhanishant658/Dsa_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jhanishant658/Dsa_problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
