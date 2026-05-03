@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/jhanishant658/Dsa_problems/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jhanishant658/Dsa_problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0796-rotate-string](https://github.com/jhanishant658/Dsa_problems/tree/master/0796-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/jhanishant658/Dsa_problems/tree/master/0874-backspace-string-compare) |
 | [1006-vowel-spellchecker](https://github.com/jhanishant658/Dsa_problems/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jhanishant658/Dsa_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/jhanishant658/Dsa_problems/tree/master/0796-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/jhanishant658/Dsa_problems/tree/master/1764-maximum-repeating-substring) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jhanishant658/Dsa_problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Backtracking
