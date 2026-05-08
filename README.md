@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jhanishant658/Dsa_problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jhanishant658/Dsa_problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jhanishant658/Dsa_problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jhanishant658/Dsa_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/jhanishant658/Dsa_problems/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jhanishant658/Dsa_problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jhanishant658/Dsa_problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jhanishant658/Dsa_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jhanishant658/Dsa_problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/jhanishant658/Dsa_problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jhanishant658/Dsa_problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jhanishant658/Dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/jhanishant658/Dsa_problems/tree/master/0794-swim-in-rising-water) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jhanishant658/Dsa_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jhanishant658/Dsa_problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Trie
 |  |
 | ------- |
@@ -869,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jhanishant658/Dsa_problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
