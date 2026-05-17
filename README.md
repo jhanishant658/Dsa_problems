@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/jhanishant658/Dsa_problems/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/jhanishant658/Dsa_problems/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/jhanishant658/Dsa_problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1306-jump-game-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jhanishant658/Dsa_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jhanishant658/Dsa_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jhanishant658/Dsa_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jhanishant658/Dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/jhanishant658/Dsa_problems/tree/master/0794-swim-in-rising-water) |
+| [1306-jump-game-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/1306-jump-game-iii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jhanishant658/Dsa_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jhanishant658/Dsa_problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Trie
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/jhanishant658/Dsa_problems/tree/master/0110-balanced-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jhanishant658/Dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/jhanishant658/Dsa_problems/tree/master/0794-swim-in-rising-water) |
+| [1306-jump-game-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jhanishant658/Dsa_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/jhanishant658/Dsa_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
