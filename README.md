@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/jhanishant658/Dsa_problems/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/jhanishant658/Dsa_problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1306-jump-game-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/jhanishant658/Dsa_problems/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jhanishant658/Dsa_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jhanishant658/Dsa_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jhanishant658/Dsa_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/jhanishant658/Dsa_problems/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/jhanishant658/Dsa_problems/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jhanishant658/Dsa_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/jhanishant658/Dsa_problems/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jhanishant658/Dsa_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jhanishant658/Dsa_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jhanishant658/Dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/jhanishant658/Dsa_problems/tree/master/0794-swim-in-rising-water) |
 | [1306-jump-game-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/jhanishant658/Dsa_problems/tree/master/1345-jump-game-iv) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jhanishant658/Dsa_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jhanishant658/Dsa_problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Trie
