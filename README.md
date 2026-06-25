@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jhanishant658/Dsa_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jhanishant658/Dsa_problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/jhanishant658/Dsa_problems/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/jhanishant658/Dsa_problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/jhanishant658/Dsa_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/jhanishant658/Dsa_problems/tree/master/0874-walking-robot-simulation) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/jhanishant658/Dsa_problems/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jhanishant658/Dsa_problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/jhanishant658/Dsa_problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jhanishant658/Dsa_problems/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/jhanishant658/Dsa_problems/tree/master/0396-rotate-function) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jhanishant658/Dsa_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/jhanishant658/Dsa_problems/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/jhanishant658/Dsa_problems/tree/master/0794-swim-in-rising-water) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/jhanishant658/Dsa_problems/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/jhanishant658/Dsa_problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/jhanishant658/Dsa_problems/tree/master/0338-counting-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jhanishant658/Dsa_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -601,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jhanishant658/Dsa_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/jhanishant658/Dsa_problems/tree/master/0900-reordered-power-of-2) |
