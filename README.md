@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/0633-sum-of-square-numbers) |
 | [0874-backspace-string-compare](https://github.com/jhanishant658/Dsa_problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/jhanishant658/Dsa_problems/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jhanishant658/Dsa_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/jhanishant658/Dsa_problems/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/jhanishant658/Dsa_problems/tree/master/0396-rotate-function) |
+| [0633-sum-of-square-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/jhanishant658/Dsa_problems/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/jhanishant658/Dsa_problems/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jhanishant658/Dsa_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/jhanishant658/Dsa_problems/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/jhanishant658/Dsa_problems/tree/master/0794-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0852-peak-index-in-a-mountain-array) |
