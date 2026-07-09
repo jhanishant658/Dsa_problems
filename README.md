@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jhanishant658/Dsa_problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jhanishant658/Dsa_problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jhanishant658/Dsa_problems/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/jhanishant658/Dsa_problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jhanishant658/Dsa_problems/tree/master/0037-sudoku-solver) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jhanishant658/Dsa_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/jhanishant658/Dsa_problems/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0268-missing-number) |
