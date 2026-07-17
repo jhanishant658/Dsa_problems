@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/jhanishant658/Dsa_problems/tree/master/1448-maximum-69-number) |
 | [1622-fancy-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/jhanishant658/Dsa_problems/tree/master/1642-water-bottles) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/jhanishant658/Dsa_problems/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jhanishant658/Dsa_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jhanishant658/Dsa_problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1764-maximum-repeating-substring](https://github.com/jhanishant658/Dsa_problems/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/jhanishant658/Dsa_problems/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/jhanishant658/Dsa_problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jhanishant658/Dsa_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jhanishant658/Dsa_problems/tree/master/0062-unique-paths) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/jhanishant658/Dsa_problems/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
