@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/jhanishant658/Dsa_problems/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/jhanishant658/Dsa_problems/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/jhanishant658/Dsa_problems/tree/master/0900-reordered-power-of-2) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/jhanishant658/Dsa_problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/jhanishant658/Dsa_problems/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/jhanishant658/Dsa_problems/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/jhanishant658/Dsa_problems/tree/master/0908-middle-of-the-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/jhanishant658/Dsa_problems/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/jhanishant658/Dsa_problems/tree/master/0460-lfu-cache) |
 | [1622-fancy-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jhanishant658/Dsa_problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/jhanishant658/Dsa_problems/tree/master/2023-design-movie-rental-system) |
@@ -965,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jhanishant658/Dsa_problems/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/jhanishant658/Dsa_problems/tree/master/0460-lfu-cache) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Rolling Hash
 |  |
