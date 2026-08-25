@@ -1,5 +1,6 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
+        Arrays.sort(nums);
         int idx = 1 ; 
        while(true){
         boolean found = false ; 
