@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jhanishant658/Dsa_problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jhanishant658/Dsa_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jhanishant658/Dsa_problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jhanishant658/Dsa_problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jhanishant658/Dsa_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/jhanishant658/Dsa_problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2029-stone-game-ix](https://github.com/jhanishant658/Dsa_problems/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jhanishant658/Dsa_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jhanishant658/Dsa_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jhanishant658/Dsa_problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jhanishant658/Dsa_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jhanishant658/Dsa_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
