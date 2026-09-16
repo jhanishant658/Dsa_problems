@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/jhanishant658/Dsa_problems/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/jhanishant658/Dsa_problems/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/jhanishant658/Dsa_problems/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/jhanishant658/Dsa_problems/tree/master/0705-design-hashset) |
 | [0794-swim-in-rising-water](https://github.com/jhanishant658/Dsa_problems/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/jhanishant658/Dsa_problems/tree/master/0830-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jhanishant658/Dsa_problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/jhanishant658/Dsa_problems/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhanishant658/Dsa_problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/jhanishant658/Dsa_problems/tree/master/0705-design-hashset) |
 | [0874-walking-robot-simulation](https://github.com/jhanishant658/Dsa_problems/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/jhanishant658/Dsa_problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/jhanishant658/Dsa_problems/tree/master/0940-fruit-into-baskets) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/jhanishant658/Dsa_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/jhanishant658/Dsa_problems/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/jhanishant658/Dsa_problems/tree/master/0460-lfu-cache) |
+| [0705-design-hashset](https://github.com/jhanishant658/Dsa_problems/tree/master/0705-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/jhanishant658/Dsa_problems/tree/master/0908-middle-of-the-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/jhanishant658/Dsa_problems/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jhanishant658/Dsa_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/jhanishant658/Dsa_problems/tree/master/0460-lfu-cache) |
+| [0705-design-hashset](https://github.com/jhanishant658/Dsa_problems/tree/master/0705-design-hashset) |
 | [1622-fancy-sequence](https://github.com/jhanishant658/Dsa_problems/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jhanishant658/Dsa_problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/jhanishant658/Dsa_problems/tree/master/2023-design-movie-rental-system) |
@@ -887,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/jhanishant658/Dsa_problems/tree/master/0705-design-hashset) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jhanishant658/Dsa_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jhanishant658/Dsa_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Stack
