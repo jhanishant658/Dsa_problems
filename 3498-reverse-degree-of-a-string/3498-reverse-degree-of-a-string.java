@@ -1,20 +1,11 @@
 class Solution {
     public int reverseDegree(String s) {
-        HashMap<Character , Integer> map = new HashMap<>() ; 
-        char letter = 'a';
-        int i = 26  ; 
-        while(i>0){
-            
-            map.put(letter++ , i--);
-            
-           
-        }
-        int ans = 0 ; 
-        for(int k = 0 ; k<s.length();k++){
-            
-            ans += map.get(s.charAt(k))*(k+1);
-            
-        }
+     int ans  = 0 ; 
+     for(int i = 1 ; i<=s.length();i++){
+        int idex = s.charAt(i-1) - 'a';
+        int reverse = 26 - idex ; 
+        ans += reverse*i ; 
+     }
         return ans ; 
     }
 }
