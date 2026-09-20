@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/jhanishant658/Dsa_problems/tree/master/3396-valid-word) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/jhanishant658/Dsa_problems/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/jhanishant658/Dsa_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jhanishant658/Dsa_problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3336-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/jhanishant658/Dsa_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
