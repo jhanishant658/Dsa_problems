@@ -12,7 +12,8 @@ class Solution {
             else {
                 int j = i+1 ; 
                 while(s.charAt(j)!=')') j++ ; 
-                if(map.containsKey(s.substring(i+1 , j)))ans.append(map.get(s.substring(i+1,j)));
+                String a = s.substring(i+1 , j) ; 
+                if(map.containsKey(a)) ans.append(map.get(a));
                 else ans.append('?');
                 i = j+1 ; 
 
