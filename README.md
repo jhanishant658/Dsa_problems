@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jhanishant658/Dsa_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1764-maximum-repeating-substring](https://github.com/jhanishant658/Dsa_problems/tree/master/1764-maximum-repeating-substring) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jhanishant658/Dsa_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jhanishant658/Dsa_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jhanishant658/Dsa_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1980-find-unique-binary-string](https://github.com/jhanishant658/Dsa_problems/tree/master/1980-find-unique-binary-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jhanishant658/Dsa_problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jhanishant658/Dsa_problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jhanishant658/Dsa_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jhanishant658/Dsa_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/jhanishant658/Dsa_problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/jhanishant658/Dsa_problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jhanishant658/Dsa_problems/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/jhanishant658/Dsa_problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/jhanishant658/Dsa_problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jhanishant658/Dsa_problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jhanishant658/Dsa_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/jhanishant658/Dsa_problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/jhanishant658/Dsa_problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1980-find-unique-binary-string](https://github.com/jhanishant658/Dsa_problems/tree/master/1980-find-unique-binary-string) |
