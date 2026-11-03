@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jhanishant658/Dsa_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jhanishant658/Dsa_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/jhanishant658/Dsa_problems/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jhanishant658/Dsa_problems/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jhanishant658/Dsa_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jhanishant658/Dsa_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jhanishant658/Dsa_problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jhanishant658/Dsa_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/jhanishant658/Dsa_problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jhanishant658/Dsa_problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jhanishant658/Dsa_problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
