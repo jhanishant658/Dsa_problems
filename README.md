@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/jhanishant658/Dsa_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1980-find-unique-binary-string](https://github.com/jhanishant658/Dsa_problems/tree/master/1980-find-unique-binary-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jhanishant658/Dsa_problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/jhanishant658/Dsa_problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jhanishant658/Dsa_problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jhanishant658/Dsa_problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jhanishant658/Dsa_problems/tree/master/2243-calculate-digit-sum-of-a-string) |
